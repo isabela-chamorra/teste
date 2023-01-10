@@ -21,7 +21,7 @@ class HerosListViewModel{
             completion(herosList)
         })
     }
-}
+}//aaaaaa
 
 
 

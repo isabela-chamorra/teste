@@ -11,4 +11,4 @@ class HeroDetailViewModel{
             self.hero.description = "Description not available."
         }
     }
-}
+}//aaaaaa
